@@ -19,8 +19,12 @@
 
 Source
 http://zevross.com/blog/2014/04/09/extracting-tabular-data-from-a-pdf-an-example-using-python-and-regular-expressions/
+
 https://github.com/astepe/sds_parser
+
 https://pdfminersix.readthedocs.io/_/downloads/en/latest/pdf/
+
+https://stackoverflow.com/questions/48744241/extract-text-from-a-pdf-with-regex
 
 ### **Reasearch work :**
 
