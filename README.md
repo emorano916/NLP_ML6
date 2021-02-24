@@ -22,7 +22,7 @@ http://zevross.com/blog/2014/04/09/extracting-tabular-data-from-a-pdf-an-example
 https://github.com/astepe/sds_parser
 https://pdfminersix.readthedocs.io/_/downloads/en/latest/pdf/
 
-**Reasearch work :**
+### **Reasearch work :**
 
 How SPS sparser work under the hood ; 
 What pdfminer is doing in the librairy? Explore the python file and documents
