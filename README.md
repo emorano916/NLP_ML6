@@ -23,6 +23,7 @@ https://github.com/astepe/sds_parser
 https://pdfminersix.readthedocs.io/_/downloads/en/latest/pdf/
 
 Reasearch work :
+
 How SPS sparser work under the hood ; 
 What pdfminer is doing in the librairy? Explore the python file and documents
 How OCR is used with pytesseract ? Explore the python file and documents
