@@ -21,3 +21,13 @@ Source
 http://zevross.com/blog/2014/04/09/extracting-tabular-data-from-a-pdf-an-example-using-python-and-regular-expressions/
 https://github.com/astepe/sds_parser
 https://pdfminersix.readthedocs.io/_/downloads/en/latest/pdf/
+
+Reasearch work :
+How SPS sparser work under the hood ; 
+What pdfminer is doing in the librairy? Explore the python file and documents
+How OCR is used with pytesseract ? Explore the python file and documents
+Can we add a new key ? 
+Can we write a loop to add a new manufacturers in one time
+Compare the test pdf and our pdf and find what is the difference and why does it doesn't work half of the time with our pdf. 
+Discuss with the developper on how to log to mangodb as root and launch the Gui (more details and explanations)
+Try to find in the code some structure they used, copy regex code they use.
